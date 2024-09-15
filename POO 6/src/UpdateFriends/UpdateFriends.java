@@ -1,4 +1,4 @@
-package UpdateFriend;
+package UpdateFriends;
 
 import java.io.File;
 import java.io.IOException;
@@ -6,7 +6,7 @@ import java.io.RandomAccessFile;
 import java.lang.NumberFormatException;
 import java.util.Scanner;
 
-class UpdateFriend {
+class UpdateFriends {
 
     public static void main(String[] data) {
 
